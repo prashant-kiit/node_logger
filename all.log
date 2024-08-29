@@ -1,0 +1,53 @@
+2024-08-29 21:49:43:4943 [32minfo[39m: [32m/home endpoint[39m
+2024-08-29 21:49:43:4943 [35mhttp[39m: [35m127.0.0.1 GET /app/home 200 8 - 16.024 ms[39m
+[35m[39m
+2024-08-29 21:50:13:5013 [32minfo[39m: [32m/home endpoint 1[39m
+2024-08-29 21:50:13:5013 [32minfo[39m: [32m/home endpoint 2[39m
+2024-08-29 21:50:13:5013 [35mhttp[39m: [35m127.0.0.1 GET /app/home 200 8 - 11.053 ms[39m
+[35m[39m
+2024-08-29 21:57:36:5736 [32minfo[39m: [32m/home endpoint[39m
+2024-08-29 21:57:36:5736 [31merror[39m: [31mThere is an error[39m
+2024-08-29 21:57:36:5736 [35mhttp[39m: [35m127.0.0.1 GET /app/home 200 8 - 10.351 ms[39m
+[35m[39m
+2024-08-29 21:58:46:5846 [32minfo[39m: [32m/home endpoint[39m
+2024-08-29 21:58:46:5846 [33mwarn[39m: [33mThis is a warning[39m
+2024-08-29 21:58:46:5846 [35mhttp[39m: [35m127.0.0.1 GET /app/home 200 8 - 11.489 ms[39m
+[35m[39m
+2024-08-29 21:59:16:5916 [32minfo[39m: [32m/home endpoint[39m
+2024-08-29 21:59:16:5916 [33mwarn[39m: [33mThis is a warning[39m
+2024-08-29 21:59:16:5916 [35mhttp[39m: [35m127.0.0.1 GET /app/home 200 8 - 9.721 ms[39m
+[35m[39m
+2024-08-29 21:59:29:5929 [32minfo[39m: [32m/home endpoint[39m
+2024-08-29 21:59:29:5929 [31merror[39m: [31mThere is an error[39m
+2024-08-29 21:59:29:5929 [35mhttp[39m: [35m127.0.0.1 GET /app/home 200 8 - 12.387 ms[39m
+[35m[39m
+2024-08-29 22:02:08:28 [32minfo[39m: [32m/home endpoint[39m
+2024-08-29 22:02:08:28 [31merror[39m: [31mThere is an error[39m
+2024-08-29 22:02:08:28 [35mhttp[39m: [35m127.0.0.1 GET /app/home 200 8 - 10.446 ms[39m
+[35m[39m
+2024-08-29 22:02:43:243 [32minfo[39m: [32m/home endpoint[39m
+2024-08-29 22:02:43:243 [31merror[39m: [31mThere is an error[39m
+2024-08-29 22:02:43:243 [35mhttp[39m: [35m127.0.0.1 GET /app/home 200 8 - 10.771 ms[39m
+[35m[39m
+2024-08-29 22:03:14:314 [32minfo[39m: [32m/home endpoint[39m
+2024-08-29 22:03:14:314 [31merror[39m: [31mThere is an error[39m
+2024-08-29 22:03:14:314 [35mhttp[39m: [35m127.0.0.1 GET /app/home 400 8 - 12.852 ms[39m
+[35m[39m
+2024-08-29 22:03:35:335 [32minfo[39m: [32m/home endpoint[39m
+2024-08-29 22:03:35:335 [33mwarn[39m: [33mThis is a warning[39m
+2024-08-29 22:03:35:335 [35mhttp[39m: [35m127.0.0.1 GET /app/home 200 8 - 9.261 ms[39m
+[35m[39m
+2024-08-29 22:03:53:353 [32minfo[39m: [32m/home endpoint[39m
+2024-08-29 22:03:53:353 [35mhttp[39m: [35m127.0.0.1 GET /app/home 200 8 - 6.942 ms[39m
+[35m[39m
+2024-08-29 22:04:26:426 [32minfo[39m: [32m/home endpoint[39m
+2024-08-29 22:04:26:426 [37mdebug[39m: [37mThis is the end[39m
+2024-08-29 22:04:26:426 [35mhttp[39m: [35m127.0.0.1 GET /app/home 200 8 - 6.542 ms[39m
+[35m[39m
+2024-08-29 23:09:22:922 [32minfo[39m: [32m/home endpoint[39m
+2024-08-29 23:09:22:922 [37mdebug[39m: [37mThis is the end[39m
+2024-08-29 23:09:22:922 [35mhttp[39m: [35m127.0.0.1 GET /app/home 200 8 - 6.663 ms[39m
+[35m[39m
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m/home endpoint\u001b[39m"}
+{"level":"\u001b[37mdebug\u001b[39m","message":"\u001b[37mThis is the end\u001b[39m"}
+{"level":"\u001b[35mhttp\u001b[39m","message":"\u001b[35m127.0.0.1 GET /app/home 200 8 - 9.429 ms\u001b[39m\n\u001b[35m\u001b[39m"}
